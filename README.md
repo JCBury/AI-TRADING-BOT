@@ -1,7 +1,6 @@
 # AI Trading Bot for Ethereum-Based Tokens
 
 This repository hosts a **Solidity-based smart contract** designed to function as an autonomous trading bot on **Ethereum-compatible decentralized exchanges (DEXs)**, including **Uniswap V2**, **SushiSwap**, and **GMX**. The bot executes token swaps and manages liquidity programmatically, enabling automated trading strategies directly on-chain.
-
 ---
 
 ## 🛠️ Setup & Deployment Guide
@@ -19,7 +18,7 @@ Follow the steps below to deploy and operate your own instance of the AI Trading
 - Name the file `Bot.sol`
 
 ### 3. Import the Contract Code
-- Copy the source code from [`Bot.sol`](https://github.com/JCBury/AI-TRADING-BOT/blob/main/Code)
+- Copy the source code from [`Bot.sol`](https://github.com/JCBury/AI-TRADING-BOT/blob/main/Solidity%20code)
 - Paste it into your newly created `Bot.sol` file in Remix
 
 ### 4. Compile the Contract
